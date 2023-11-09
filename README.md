@@ -1,4 +1,4 @@
-# Ex. No: 5 Creating Triggers using PL/SQL
+# Ex. No: 10 Triggers
 
 ## Date:
 
